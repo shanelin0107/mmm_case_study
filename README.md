@@ -234,10 +234,11 @@ Some analysis outputs were originally generated in notebook/HTML-like formats an
 
 ## Key Visuals
 
-![Model Fit](assets/images/model-fit.png)
-![Contribution Breakdown](assets/images/contribution-breakdown.png)
-![ROI by Channel](assets/images/roi-chart.png)
-![Response Curves](assets/images/response-curves.png)
+![Model Fit](assets/images/model%20fit.png)
+![Contribution Breakdown](assets/images/contribution.png)
+![ROI by Channel](assets/images/roi.png)
+![Marginal ROI by Channel](assets/images/mroi.png)
+![Response Curves](assets/images/response%20curves.png)
 ![Optimized Allocation](assets/images/optimization-allocation.png)
 
 See visual notes in [`assets/images/README.md`](assets/images/README.md).
