@@ -239,6 +239,5 @@ Some analysis outputs were originally generated in notebook/HTML-like formats an
 ![ROI by Channel](assets/images/roi.png)
 ![Marginal ROI by Channel](assets/images/mroi.png)
 ![Response Curves](assets/images/response%20curve.png)
-![Optimized Allocation](assets/images/optimization-allocation.png)
-
-See visual notes in [`assets/images/README.md`](assets/images/README.md).
+![Optimized Allocation](assets/images/channelOptimized.png)
+![Incremental Revenue](assets/images/incrementalRevenue.png)
